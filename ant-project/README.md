@@ -1,2 +1,0 @@
-# model-ant-project
-
